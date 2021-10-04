@@ -1,0 +1,10 @@
+.body_background{
+    background-image: url('FFH.jpg');
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+#myCanvas{
+    border: 2px solid #202020;
+    border-radius:8px; 
+    background-color: #202020;
+}
